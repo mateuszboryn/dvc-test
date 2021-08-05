@@ -1,0 +1,4 @@
+outs:
+- md5: d301ae96f44a16edbaa13e4e5c753031
+  size: 3305
+  path: winequality.names
